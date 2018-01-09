@@ -1,0 +1,15 @@
+{
+    "name": "socket-chat-app",
+    "version": "1.0.0",
+    "main": "server.js",
+    "scripts": {
+        "start":"node-server/server.js",
+        "test":"echo \"Error: No test specified\" && exit 1"
+    },
+    "engines": {
+        "node":"latest"
+    },
+    "dependencies": {
+        "express": "latest"
+    }
+}
